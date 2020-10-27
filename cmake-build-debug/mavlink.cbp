@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="mavlink"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;CMake Files\cmake\arkcmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ASLUAV.xml-v2.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 ASLUAV.xml-v2.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test.xml-v1.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 test.xml-v1.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ualberta.xml-v1.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 ualberta.xml-v1.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="python_array_test.xml-v1.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 python_array_test.xml-v1.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 package"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="paparazzi.xml-v1.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 paparazzi.xml-v1.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="autoquad.xml-v1.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 autoquad.xml-v1.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="matrixpilot.xml-v2.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 matrixpilot.xml-v2.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ardupilotmega.xml-v1.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 ardupilotmega.xml-v1.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="paparazzi.xml-v2.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 paparazzi.xml-v2.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ASLUAV.xml-v1.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 ASLUAV.xml-v1.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ualberta.xml-v2.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 ualberta.xml-v2.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="autoquad.xml-v2.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 autoquad.xml-v2.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="python_array_test.xml-v2.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 python_array_test.xml-v2.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="matrixpilot.xml-v1.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 matrixpilot.xml-v1.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="common.xml-v2.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 common.xml-v2.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="slugs.xml-v1.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 slugs.xml-v1.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minimal.xml-v2.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 minimal.xml-v2.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ardupilotmega.xml-v2.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 ardupilotmega.xml-v2.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="common.xml-v1.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 common.xml-v1.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="slugs.xml-v2.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 slugs.xml-v2.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minimal.xml-v1.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 minimal.xml-v1.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test.xml-v2.0">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 test.xml-v2.0"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package_source">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 package_source"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PX4/toolchain/cygwin64/bin/cmake.exe -j12 -f &quot;/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/COPYING">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/README.md">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/config.h.in">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/pc.in">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake/arkcmake/DefineCMakeDefaults.cmake">
+			<Option virtualFolder="CMake Files\cmake\arkcmake\"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake/arkcmake/ExternalProjectWithFilename.cmake">
+			<Option virtualFolder="CMake Files\cmake\arkcmake\"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake/arkcmake/MacroEnsureOutOfSourceBuild.cmake">
+			<Option virtualFolder="CMake Files\cmake\arkcmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

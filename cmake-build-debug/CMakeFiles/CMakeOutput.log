@@ -1,0 +1,37 @@
+The system is: CYGWIN - 3.1.7(0.340/5/3) - x86_64
+Determining if the C compiler works passed with the following output:
+Change Dir: /cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PX4/toolchain/cygwin64/bin/cmake.exe cmTC_1a17f/fast && Usage
+
+  cmake [options] <path-to-source>
+  cmake [options] <path-to-existing-build>
+  cmake [options] -S <path-to-source> -B <path-to-build>
+
+Specify a source directory to (re-)generate a build system for it in the
+current working directory.  Specify an existing build directory to
+re-generate its build system.
+
+Run 'cmake --help' for more information.
+
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PX4/toolchain/cygwin64/bin/cmake.exe cmTC_40075/fast && Usage
+
+  cmake [options] <path-to-source>
+  cmake [options] <path-to-existing-build>
+  cmake [options] -S <path-to-source> -B <path-to-build>
+
+Specify a source directory to (re-)generate a build system for it in the
+current working directory.  Specify an existing build directory to
+re-generate its build system.
+
+Run 'cmake --help' for more information.
+
+
+
+

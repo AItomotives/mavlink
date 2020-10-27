@@ -1,0 +1,286 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: no input files
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: no input files
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: no input files
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: no input files
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: fatal error: no input files
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: no input files
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: no input files
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/gcc.exe 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: no input files
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/gcc.exe 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: no input files
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/gcc.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: fatal error: no input files
+compilation terminated.
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+g++: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+g++: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/g++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+g++: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+g++: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/g++.exe 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+1
+g++: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/g++.exe 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+1
+g++: fatal error: no input files
+compilation terminated.
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/PX4/toolchain/cygwin64/bin/g++.exe 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+g++: fatal error: no input files
+compilation terminated.
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++: fatal error: no input files
+compilation terminated.
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+g++: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PX4/toolchain/cygwin64/bin/cmake.exe cmTC_ce5e7/fast && Usage
+
+  cmake [options] <path-to-source>
+  cmake [options] <path-to-existing-build>
+  cmake [options] -S <path-to-source> -B <path-to-build>
+
+Specify a source directory to (re-)generate a build system for it in the
+current working directory.  Specify an existing build directory to
+re-generate its build system.
+
+Run 'cmake --help' for more information.
+
+
+
+Cannot copy output executable
+  ''
+to destination specified by COPY_FILE:
+  '/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin'
+Unable to find the executable at any of:
+  /cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_ce5e7.exe
+  /cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/CMakeTmp/Debug/cmTC_ce5e7.exe
+  /cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/CMakeTmp/Development/cmTC_ce5e7.exe
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: /cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PX4/toolchain/cygwin64/bin/cmake.exe cmTC_e2e98/fast && Usage
+
+  cmake [options] <path-to-source>
+  cmake [options] <path-to-existing-build>
+  cmake [options] -S <path-to-source> -B <path-to-build>
+
+Specify a source directory to (re-)generate a build system for it in the
+current working directory.  Specify an existing build directory to
+re-generate its build system.
+
+Run 'cmake --help' for more information.
+
+
+
+Cannot copy output executable
+  ''
+to destination specified by COPY_FILE:
+  '/cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin'
+Unable to find the executable at any of:
+  /cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/CMakeTmp/cmTC_e2e98.exe
+  /cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/CMakeTmp/Debug/cmTC_e2e98.exe
+  /cygdrive/c/Users/chris/OneDrive/Desktop/mavlink/cmake-build-debug/CMakeFiles/CMakeTmp/Development/cmTC_e2e98.exe
+
+

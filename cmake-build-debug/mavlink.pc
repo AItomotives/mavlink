@@ -1,0 +1,7 @@
+prefix=/usr/local
+exec_prefix=/usr/local
+
+Name: mavlink
+Description: MAVLink micro air vehicle marshalling / communication library
+Version: 1.0.9
+Cflags: -I/usr/local/include/mavlink
